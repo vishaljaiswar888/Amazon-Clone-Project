@@ -1,0 +1,60 @@
+1.
+cdn = content delivery network
+-------------------------------
+apki location ke sabse nearest wali server ko apse connect kar dega, for optimisation purposes
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+(basically ye ek css file hi hai, jo kahi cloud me hai.. uski style ko hum use karenge)
+
+
+2.
+border: border-box;   -->  content area ke andar hi border count hoga, bahar nahi jayega
+
+
+3.
+class ke liye css me .
+eg.
+.navbar{
+}
+
+
+4.
+rem  -->  root em (matlab root font ke comparison me baki sarre fonts resize honge, taki website responsive rahe)  
+
+
+5. 
+flex  -->  ek hi line me lane ke liye
+
+
+6.
+align-items: center;  -->  vertically center
+
+
+7. 
+justify-content: center;  -->  horizontally center
+
+
+8.
+justify-content: space-evenly;  -->  ye har content ko evenly space kar dega
+
+
+9. 
+margin-left: 15px;  -->  create space between lis of contents
+
+
+10.
+background-size: cover;  -->  entire image ko web page me fix cover karne ke liye
+
+
+11.
+flex-wrap: wrap;  -->  Boxes alag alag line me anne ke liye
+
+
+12.  -->   to bring any element at center
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+13.  -->  solid line ke liye
+border-top: 0.5px solid white;
